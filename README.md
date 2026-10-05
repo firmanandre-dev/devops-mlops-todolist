@@ -6,7 +6,7 @@ Aplikasi todolist sederhana untuk mencatat, mengelola, dan menandai tugas harian
 ## Anggota Kelompok
 1. Firman Andre Setiawan - 23.01.53.0017 - [firmanandre-dev](https://github.com/firmanandre-dev)
 2. Rizal Latumasandhi Sudarto - 23.01.53.0003 - [zaa-net](https://github.com/zaa-net)
-3. Rafly Tirta Nurhuda - 23.02.53.0004 - [raflytirtan-cell](https://github.com/raflytirtan-cell)
+3. Rafly Tirta Nurhuda - 23.01.53.0004 - [raflytirtan-cell](https://github.com/raflytirtan-cell)
 
 ## Tujuan Project
 Membuat aplikasi todolist sederhana sebagai bahan latihan alur DevOps: version control, CI/CD, containerisasi, dan deployment.
